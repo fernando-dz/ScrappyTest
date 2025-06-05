@@ -1,0 +1,64 @@
+{
+    "interactive_elements": {
+        "buttons": [
+            "\n        \n    ",
+            "Read more \u2192",
+            "Read more \u2192",
+            "Send Message"
+        ],
+        "links": [
+            "/",
+            "/",
+            "/projects/",
+            "https://drive.google.com/file/d/1vhwi6DZOgcQO5VNwzkvI4A6R-8Yl1yvY/view?usp=sharing",
+            "/",
+            "/projects/",
+            "https://drive.google.com/file/d/1vhwi6DZOgcQO5VNwzkvI4A6R-8Yl1yvY/view?usp=sharing",
+            "https://www.linkedin.com/in/https://www.linkedin.com/in/fernando-diaz-29627a4/",
+            "https://github.com/fernando-dz/",
+            "#projects",
+            "#skills",
+            "#contact",
+            "#projects",
+            "/projects/demo-project/index/",
+            "/projects/web-site-auto/index/",
+            "/",
+            "/projects/",
+            "https://drive.google.com/file/d/1vhwi6DZOgcQO5VNwzkvI4A6R-8Yl1yvY/view?usp=sharing",
+            "mailto:aram.lee12@gmail.com",
+            "https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1"
+        ],
+        "inputs": [
+            null,
+            null
+        ]
+    },
+    "test_cases": [
+        "Test clicking button: \n        \n    ",
+        "Test clicking button: Read more \u2192",
+        "Test clicking button: Read more \u2192",
+        "Test clicking button: Send Message",
+        "Test navigating to link: /",
+        "Test navigating to link: /",
+        "Test navigating to link: /projects/",
+        "Test navigating to link: https://drive.google.com/file/d/1vhwi6DZOgcQO5VNwzkvI4A6R-8Yl1yvY/view?usp=sharing",
+        "Test navigating to link: /",
+        "Test navigating to link: /projects/",
+        "Test navigating to link: https://drive.google.com/file/d/1vhwi6DZOgcQO5VNwzkvI4A6R-8Yl1yvY/view?usp=sharing",
+        "Test navigating to link: https://www.linkedin.com/in/https://www.linkedin.com/in/fernando-diaz-29627a4/",
+        "Test navigating to link: https://github.com/fernando-dz/",
+        "Test navigating to link: #projects",
+        "Test navigating to link: #skills",
+        "Test navigating to link: #contact",
+        "Test navigating to link: #projects",
+        "Test navigating to link: /projects/demo-project/index/",
+        "Test navigating to link: /projects/web-site-auto/index/",
+        "Test navigating to link: /",
+        "Test navigating to link: /projects/",
+        "Test navigating to link: https://drive.google.com/file/d/1vhwi6DZOgcQO5VNwzkvI4A6R-8Yl1yvY/view?usp=sharing",
+        "Test navigating to link: mailto:aram.lee12@gmail.com",
+        "Test navigating to link: https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1",
+        "Test input field with placeholder: None",
+        "Test input field with placeholder: None"
+    ]
+}
